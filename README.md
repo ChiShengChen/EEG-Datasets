@@ -157,6 +157,10 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   11. https://figshare.com/articles/MAMEM_EEG_SSVEP_Dataset_III_14_channels_11_subjects_5_frequencies_presented_simultaneously_/3413851
   12. https://NEMAR.org about 200 BIDS formatted MEEG experiments
 
+
+ ###
+ Tsinghua BCI Lab: http://bci.med.tsinghua.edu.cn/download.html 
+ EEG Dataset for RSVP and P300 Speller Brain-Computer Interfaces: https://github.com/Kyungho-Won/EEG-dataset-for-RSVP-P300-speller
   
   
 
