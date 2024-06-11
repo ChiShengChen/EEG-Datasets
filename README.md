@@ -165,8 +165,9 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
  RSVP dataset: http://hdl.handle.net/2047/D20294523  
  MI dataset: https://physionet.org/physiobank/database/eegmmidb/  
  ErrP dataset: https://www.kaggle.com/c/inria-bci-challenge/  
- Faces dataset: https://exhibits.stanford.edu/data/catalog/zk881ps0522  
- ASL Dataset: http://hdl.handle.net/2047/D20294523  
+ Faces dataset(ECoG): https://exhibits.stanford.edu/data/catalog/zk881ps0522  
+ ASL Dataset(EMG): http://hdl.handle.net/2047/D20294523  
+ THINGS-EEG/EMG: https://things-initiative.org/  
   
 
 
