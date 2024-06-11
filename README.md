@@ -159,14 +159,14 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
 
 
  ###
- Tsinghua BCI Lab: http://bci.med.tsinghua.edu.cn/download.html 
- EEG Dataset for RSVP and P300 Speller Brain-Computer Interfaces: https://github.com/Kyungho-Won/EEG-dataset-for-RSVP-P300-speller
- Stress dataset: https://physionet.org/content/noneeg/1.0.0/
- RSVP dataset: http://hdl.handle.net/2047/D20294523
- MI dataset: https://physionet.org/physiobank/database/eegmmidb/
- ErrP dataset: https://www.kaggle.com/c/inria-bci-challenge/
- Faces dataset: https://exhibits.stanford.edu/data/catalog/zk881ps0522
- ASL Dataset: http://hdl.handle.net/2047/D20294523
+ Tsinghua BCI Lab: http://bci.med.tsinghua.edu.cn/download.html  
+ EEG Dataset for RSVP and P300 Speller Brain-Computer Interfaces: https://github.com/Kyungho-Won/EEG-dataset-for-RSVP-P300-speller  
+ Stress dataset: https://physionet.org/content/noneeg/1.0.0/  
+ RSVP dataset: http://hdl.handle.net/2047/D20294523  
+ MI dataset: https://physionet.org/physiobank/database/eegmmidb/  
+ ErrP dataset: https://www.kaggle.com/c/inria-bci-challenge/  
+ Faces dataset: https://exhibits.stanford.edu/data/catalog/zk881ps0522  
+ ASL Dataset: http://hdl.handle.net/2047/D20294523  
   
 
 
