@@ -158,7 +158,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   12. https://NEMAR.org about 200 BIDS formatted MEEG experiments
 
 
- ###
+ ### Other from web:
  Tsinghua BCI Lab: http://bci.med.tsinghua.edu.cn/download.html  
  EEG Dataset for RSVP and P300 Speller Brain-Computer Interfaces: https://github.com/Kyungho-Won/EEG-dataset-for-RSVP-P300-speller  
  Stress dataset: https://physionet.org/content/noneeg/1.0.0/  
@@ -168,7 +168,8 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
  Faces dataset(ECoG): https://exhibits.stanford.edu/data/catalog/zk881ps0522  
  ASL Dataset(EMG): http://hdl.handle.net/2047/D20294523  
  THINGS-EEG/EMG: https://things-initiative.org/  
-  
+ GIB-UVa ERP-BCI dataset: https://www.kaggle.com/datasets/esantamaria/gibuva-erpbci-dataset?resource=download
+ Good dataloader: https://github.com/berdakh/eeg-pytorch
 
 
   
