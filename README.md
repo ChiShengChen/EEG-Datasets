@@ -170,7 +170,8 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
  THINGS-EEG/EMG: https://things-initiative.org/  
  GIB-UVa ERP-BCI dataset: https://www.kaggle.com/datasets/esantamaria/gibuva-erpbci-dataset?resource=download  
  MI dataloader: https://github.com/berdakh/eeg-pytorch  
- torcheeg, pytorch official: https://github.com/torcheeg/torcheeg
+ torcheeg, pytorch official: https://github.com/torcheeg/torcheeg  
+ M3CV: https://www.kaggle.com/competitions/eeg-biometric-competition/rules
 
 
   
