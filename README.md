@@ -175,5 +175,8 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
 
 
 ## Notes:
-For BCIC_2a and BCIC_2b data, the original officail dataset from [here](https://www.bbci.de/competition/iv/#datasets ) only has the .gdf files. If you want the labels (.mat) files, need to get from [here](https://bnci-horizon-2020.eu/database/data-sets).  The .gdf files contain the EEG recordings, while the .mat files are required to provide the labels for the test set. Some details can find in [here](https://bbci.de/competition/iv/results/index.html#dataset2a). 
+For BCIC_2a and BCIC_2b data, the original officail dataset from [here](https://www.bbci.de/competition/iv/#datasets ) only has the .gdf files. If you want the labels (.mat) files, need to get from [here](https://bnci-horizon-2020.eu/database/data-sets).  The .gdf files contain the EEG recordings, while the .mat files are required to provide the labels for the test set. Some details can find in [here](https://bbci.de/competition/iv/results/index.html#dataset2a).  
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/82d5f4d6-25a0-47f5-b641-afea10dc6047" />
+<img width="993" alt="image" src="https://github.com/user-attachments/assets/b0e9136c-c1f0-4507-872d-c814bc50615d" />
+
 
