@@ -174,4 +174,6 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
  M3CV: https://www.kaggle.com/competitions/eeg-biometric-competition/rules
 
 
-  
+## Notes:
+For BCIC_2a and BCIC_2b data, the original officail dataset from [here](https://www.bbci.de/competition/iv/#datasets ) only has the .gdf files. If you want the labels (.mat) files, need to get from [here](https://bnci-horizon-2020.eu/database/data-sets).  The .gdf files contain the EEG recordings, while the .mat files are required to provide the labels for the test set. Some details can find in [here](https://bbci.de/competition/iv/results/index.html#dataset2a). 
+
