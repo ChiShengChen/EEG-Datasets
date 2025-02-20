@@ -179,7 +179,11 @@ For BCIC_2a and BCIC_2b data, the original officail dataset from [here](https://
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/82d5f4d6-25a0-47f5-b641-afea10dc6047" />
 <img width="993" alt="image" src="https://github.com/user-attachments/assets/b0e9136c-c1f0-4507-872d-c814bc50615d" />
 Or the ture labels (.mat) cab be found [here](https://bbci.de/competition/iv/results/index.html#dataset2a), this is different from the labels on BCIC_2b:  
-<img width="1145" alt="image" src="https://github.com/user-attachments/assets/8c4dad6c-b40f-4eb4-aac6-711eea7b63ac" />
+<img width="1145" alt="image" src="https://github.com/user-attachments/assets/8c4dad6c-b40f-4eb4-aac6-711eea7b63ac" />   
+
+For [KaggleERN](https://www.kaggle.com/c/inria-bci-challenge/data) (The BCI Challenge @ NER 2015) dataset  
+the ture label is [here](http://bci-lift.inria.fr/bci-challenge-attracted-260-participants/)  :
+http://www-sop.inria.fr/members/Maureen.Clerc/true_labels.csv
 
 
 
