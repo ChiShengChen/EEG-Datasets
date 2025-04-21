@@ -1,6 +1,9 @@
 #!/bin/bash
 
 # Script: Download and prepare required EEG datasets
+echo "Download EEGPT..."
+wget --content-disposition "https://figshare.com/ndownloader/articles/25866970?folder_path=EEGPT&private_link=e37df4f8a907a866df4b"
+
 
 echo "Creating dataset root directories..."
 mkdir -p datasets/pretrain
